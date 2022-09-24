@@ -1,0 +1,38 @@
+@media only screen and (min-width:200px) and (max-width:991px){
+
+body{text-align: center;}
+.navbar-brand{display: block; float: left;overflow: hidden;}
+.nav-item ul {margin-left:250px;}
+.nav-item ul a{margin: 30px;margin-left:-10px ;}
+.header-img img{height: 350px;width:500px;margin-left: -600px;margin-top: 30px}
+.dolar{float: left; margin-left: 700px; margin-top: -220px;}
+.header-desc p{margin-top: 10px;}
+.nav-desc{float: right; margin-top: -122px;margin-right: -20px;}
+.images img{height: 400px;width: 400px;}
+.img22{width: 500px;text-align: left;overflow: hidden;margin-right: 30px;}
+.tasty{float: left;margin-left: -150px;}
+.enjoy h1{font-size: 40px;margin-right: 130px; display: inline-block;}
+.full-footer img{width: 200px; margin-left: -260px;}
+.full-footer{float: left;}
+.main-footer{display: flex; margin-top: 470px;}
+.footer-logo i{margin-left: 450px;}
+.full-footer p{text-align: left;}
+.full-footer img{margin-left: -700px;}
+}
+
+
+@media only screen and (min-width:200px) and (max-width:480px){
+
+   .header-item h1{font-size: 90px; margin-left: -5px;}
+   .header-img img{height: 270px; width: 400px;float: right; margin-right:30px;}
+   .nav-desc img {margin-right: 20px};
+    .enjoy h1{font-size: 30px;margin-left: 60px;}
+    .berger-section img{height: 150px; width: 100px; margin-left: -5px;}
+     .main-footer{margin-left: 10px;}
+    .lorem h1{font-size: 20px;}
+    .btn{width: 100px;}
+   .img-section {margin-left: 0px;}
+    .images img{margin-left: 0px;}
+    .about-1 img {margin-left: -520px;}
+    .top-footer{margin-top: 50px;}
+}
